@@ -1,0 +1,42 @@
+* {
+    padding: 3px;
+}
+.prueba{
+    border:1px dashed pink;
+}
+
+.prueba2{
+    color:lightslategray;
+}
+
+.divEjemplo{
+    border:2px solid purple;
+}
+
+.cuadrado{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+}
+
+.error{
+    color:red;
+}
+
+.inputErroneo{
+    border:1px solid red;
+    color:white;
+    background-color: coral;
+}
+
+.inputCorrecto{
+    border:1px solid green;
+    color:white;
+    background-color: aquamarine;
+}
+
+.cuadroEjercicios{
+    width:100%;
+    border:1px solid black;
+    margin-bottom: 10px;
+}
